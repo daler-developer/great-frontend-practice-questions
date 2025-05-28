@@ -9,9 +9,9 @@ const App = () => {
     <div className="p-[100px] pl-[100px]">
       {/*<SelectableCells />*/}
       {/*<ProgressBars />*/}
-      {/*<Wordle />*/}
+      <Wordle />
       {/*<AuthCodeInput />*/}
-      <ImageCarousel />
+      {/*<ImageCarousel />*/}
     </div>
   );
 };
